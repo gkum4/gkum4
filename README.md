@@ -1,16 +1,14 @@
-### Hi there 👋
+# Gustavo
+[![Linkedin Badge](https://img.shields.io/badge/-gustavokumasawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-kumasawa-0b2252173/)](https://www.linkedin.com/in/gustavo-kumasawa-0b2252173/)
+[![Gmail Badge](https://img.shields.io/badge/-gustavokumasawa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavokumasawa@gmail.com)](mailto:gustavokumasawa@gmail.com)
 
-<!--
-**gkum4/gkum4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## "Hello 🌎" 
 
-Here are some ideas to get you started:
+My name is Gustavo Kumasawa, I'm a full-stack developer 👨‍💻!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 I’m currently developing JavaScript/TypeScript apps with React and React Native.
+- 🌱 I’m currently learning Java, DevOps and other Web technologies.
+- 💬 Ask me about: tech, tennis, anime and food.
+-  ⚡ Technologies: React, Node, Expo, React-Native
+
+"My nickname is Kuma!" 
