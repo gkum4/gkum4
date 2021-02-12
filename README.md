@@ -4,9 +4,8 @@
 
 My name is Gustavo Kumasawa, I'm a full-stack developer 👨‍💻!
 
-- 🛠 I’m currently developing JavaScript/TypeScript apps with React and React Native.
-- 🌱 I’m currently learning Java, DevOps and other Web technologies.
+- 🛠 I’m currently developing JavaScript/TypeScript apps with React, NodeJS and React Native.
+- 🌱 I’m currently learning iOS development with Swift.
 - 💬 Ask me about: tech, tennis, anime and food.
--  ⚡ Technologies: React, Node, Expo, React-Native
 
-"My nickname is Kuma!" 
+"Call me Kuma!" 
