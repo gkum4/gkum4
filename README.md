@@ -10,4 +10,4 @@ My name is Gustavo Kumasawa, I'm a full-stack developer 👨‍💻!
 
 "Call me Kuma!" 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkum4&layout=compact&theme=onedark&langs_count=6">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkum4&layout=compact&theme=onedark&langs_count=6&exclude_repo=micro_calculadora_projeto_final">
