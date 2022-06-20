@@ -6,7 +6,7 @@ My name is Gustavo Kumasawa, I'm a full-stack developer 👨‍💻!
 
 - 🛠 I’m currently developing JavaScript/TypeScript apps with React, NodeJS and React Native.
 - 🌱 I’m currently learning iOS development with Swift.
-- 💬 Ask me about: tech, tennis, anime and food.
+- 💬 Ask me about: tech, coffee, keyboards, tennis, anime and food.
 
 "Call me Kuma!" 
 
