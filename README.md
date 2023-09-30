@@ -8,5 +8,3 @@ My name is Gustavo Kumasawa, I'm a full-stack developer 👨‍💻!
 - 💬 Ask me about: tech, coffee, keyboards, tennis, anime and food.
 
 "Call me Kuma!" 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkum4&layout=compact&theme=onedark&langs_count=6&exclude_repo=micro_calculadora_projeto_final">
